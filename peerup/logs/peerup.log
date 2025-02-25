@@ -1,0 +1,1245 @@
+[2025-01-07 18:24:50] [INFO] [project_page.py]/[line: 22]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:03:39] [INFO] [home_page.py]/[line: 16]/[add_project] 新增项目 
+[2025-01-07 19:03:55] [INFO] [home_page.py]/[line: 16]/[add_project] 新增项目 
+[2025-01-07 19:03:56] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:03:56] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:16:27] [INFO] [home_page.py]/[line: 19]/[add_project] 新增项目 
+[2025-01-07 19:16:59] [INFO] [home_page.py]/[line: 19]/[add_project] 新增项目 
+[2025-01-07 19:17:00] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-07 19:17:00] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:21:21] [INFO] [home_page.py]/[line: 19]/[add_project] 新增项目 
+[2025-01-07 19:21:22] [INFO] [project_page.py]/[line: 19]/[get_project_result] <selenium.webdriver.remote.webelement.WebElement (session="6c1f1bdd939eeb11f2f4da6ba0df446d", element="f.C41639F64A43AD255860941F2C0E5B06.d.D3497832F8FAA9734F35E1D4D29ECC24.e.16")> 
+[2025-01-07 19:21:22] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-07 19:21:22] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:22:55] [INFO] [home_page.py]/[line: 19]/[add_project] 新增项目 
+[2025-01-07 19:22:55] [INFO] [project_page.py]/[line: 19]/[get_project_result]  
+[2025-01-07 19:22:56] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-07 19:22:56] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:25:28] [INFO] [home_page.py]/[line: 19]/[add_project] 新增项目 
+[2025-01-07 19:26:13] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:26:14] [INFO] [home_page.py]/[line: 36]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:26:14] [INFO] [home_page.py]/[line: 37]/[get_project_result] 项目添加的结果：<selenium.webdriver.remote.webelement.WebElement (session="7e0331bac0535b57fd43568432c7246a", element="f.68B1090EAD5A457DB93DFDF212D59499.d.E32208CAFFB92329A7436C72923EDE33.e.16")> 
+[2025-01-07 19:26:37] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:26:38] [INFO] [home_page.py]/[line: 36]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-07 19:26:38] [INFO] [home_page.py]/[line: 37]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:32:11] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:32:12] [INFO] [home_page.py]/[line: 36]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:32:12] [INFO] [home_page.py]/[line: 37]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:43:49] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:43:50] [INFO] [home_page.py]/[line: 36]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:43:50] [INFO] [home_page.py]/[line: 37]/[get_project_result] 项目添加的结果： 
+[2025-01-07 19:45:14] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:45:15] [INFO] [project_page.py]/[line: 19]/[get_project_result] 登录成功！ 
+[2025-01-07 19:45:15] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:45:15] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果：登录成功！ 
+[2025-01-07 19:46:53] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:46:54] [INFO] [project_page.py]/[line: 19]/[get_project_result] 登录成功！ 
+[2025-01-07 19:46:54] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:46:54] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果：登录成功！ 
+[2025-01-07 19:48:15] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 19:48:16] [INFO] [project_page.py]/[line: 19]/[get_project_result] 登录成功！ 
+[2025-01-07 19:48:16] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-07 19:48:16] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果：登录成功！ 
+[2025-01-07 21:04:33] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-07 21:04:34] [INFO] [project_page.py]/[line: 22]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-07 21:04:34] [INFO] [project_page.py]/[line: 23]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-08 14:39:19] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-08 14:39:22] [INFO] [project_page.py]/[line: 23]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-08 14:39:22] [INFO] [project_page.py]/[line: 24]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-09 09:22:19] [INFO] [home_page.py]/[line: 20]/[add_project] 新增项目 
+[2025-01-09 09:22:20] [INFO] [project_page.py]/[line: 23]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-09 09:22:20] [INFO] [project_page.py]/[line: 24]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-14 20:05:32] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-14 20:06:54] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-14 23:09:35] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:29:08] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:32:51] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:38:40] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:40:52] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:42:04] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-14 23:43:18] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 10:53:16] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 10:55:02] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:04:43] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:05:24] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:10:04] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:10:15] [INFO] [project_page.py]/[line: 43]/[title_add] Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF620473875+3004357]
+	(No symbol) [0x00007FF620109940]
+	(No symbol) [0x00007FF61FFB582A]
+	(No symbol) [0x00007FF620005B8E]
+	(No symbol) [0x00007FF620005E7C]
+	(No symbol) [0x00007FF62004EC27]
+	(No symbol) [0x00007FF62002BC1F]
+	(No symbol) [0x00007FF62004BA4C]
+	(No symbol) [0x00007FF62002B983]
+	(No symbol) [0x00007FF61FFF7628]
+	(No symbol) [0x00007FF61FFF8791]
+	GetHandleVerifier [0x00007FF620499FDD+3161901]
+	GetHandleVerifier [0x00007FF6204EE030+3506048]
+	GetHandleVerifier [0x00007FF6204E3FDD+3465005]
+	GetHandleVerifier [0x00007FF620260EBB+830987]
+	(No symbol) [0x00007FF62011464F]
+	(No symbol) [0x00007FF6201109A4]
+	(No symbol) [0x00007FF620110B3D]
+	(No symbol) [0x00007FF620100119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 11:18:19] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:23:54] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:30:46] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:33:44] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:40:58] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:53:41] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:55:46] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:57:15] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:58:02] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 11:59:27] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 12:00:44] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 12:03:57] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:47:50] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:49:00] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:49:34] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:51:01] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:53:17] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:54:15] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:54:48] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:55:44] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:56:07] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:56:55] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 13:59:02] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:00:35] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:06:10] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:07:19] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:08:44] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:08:58] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:09:14] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:13:28] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:16:24] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:19:32] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:20:06] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:32:29] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:32:46] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:37:23] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:38:02] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:39:31] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:40:22] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:40:42] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:42:26] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:43:09] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:46:07] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:47:35] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:52:14] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 14:54:45] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 15:31:31] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 15:35:26] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 15:59:05] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 16:00:59] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 16:03:05] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 16:07:21] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 16:08:04] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 16:09:38] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 17:14:59] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 17:15:01] [INFO] [project_page.py]/[line: 71]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 17:15:01] [INFO] [project_page.py]/[line: 72]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 17:15:01] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 17:20:18] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 17:20:18] [INFO] [home_page.py]/[line: 44]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-15 17:20:18] [INFO] [home_page.py]/[line: 45]/[get_project_result] 项目添加的结果： 
+[2025-01-15 17:20:18] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 17:20:54] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 17:20:55] [INFO] [home_page.py]/[line: 44]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-15 17:20:55] [INFO] [home_page.py]/[line: 45]/[get_project_result] 项目添加的结果： 
+[2025-01-15 17:20:55] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 17:21:44] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 17:21:44] [INFO] [home_page.py]/[line: 44]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-15 17:21:44] [INFO] [home_page.py]/[line: 45]/[get_project_result] 项目添加的结果： 
+[2025-01-15 17:21:44] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 17:23:29] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 17:23:31] [INFO] [project_page.py]/[line: 71]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 17:23:31] [INFO] [project_page.py]/[line: 72]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 17:23:31] [INFO] [home_page.py]/[line: 33]/[select_project] 选择项目 
+[2025-01-15 18:02:03] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 18:07:18] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 18:07:20] [INFO] [project_page.py]/[line: 71]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 18:07:20] [INFO] [project_page.py]/[line: 72]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 18:07:20] [INFO] [home_page.py]/[line: 39]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 18:56:34] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 18:56:36] [INFO] [project_page.py]/[line: 71]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 18:56:36] [INFO] [project_page.py]/[line: 72]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 18:56:36] [INFO] [home_page.py]/[line: 39]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 18:56:40] [INFO] [home_page.py]/[line: 39]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 19:01:26] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:01:27] [INFO] [project_page.py]/[line: 71]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:01:27] [INFO] [project_page.py]/[line: 72]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:01:27] [INFO] [home_page.py]/[line: 39]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 19:01:31] [INFO] [home_page.py]/[line: 39]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 19:38:22] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:38:49] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:41:09] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:41:11] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:41:11] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:43:29] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:44:46] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:45:14] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:45:16] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:45:16] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:45:56] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:45:58] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:45:58] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:52:37] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:52:38] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:52:38] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:55:21] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:55:23] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:55:23] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 19:57:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 19:57:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 19:57:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:14:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:14:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:14:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:16:55] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:16:56] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:16:56] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:23:21] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:23:22] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:23:22] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:25:39] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:25:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:25:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:25:40] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:25:44] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:27:04] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:27:06] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:27:06] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:27:06] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:27:10] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:31:48] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:31:49] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:31:49] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:31:49] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:31:53] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:31:53] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627227374]
+	(No symbol) [0x00007FF62721996E]
+	(No symbol) [0x00007FF62724BBDA]
+	(No symbol) [0x00007FF6272192A6]
+	(No symbol) [0x00007FF62724BDF0]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:34:36] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:34:43] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:34:43] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:34:43] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:34:46] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627225B8E]
+	(No symbol) [0x00007FF627225E7C]
+	(No symbol) [0x00007FF62726EC27]
+	(No symbol) [0x00007FF62724BC1F]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:34:46] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:34:49] [INFO] [project_page.py]/[line: 50]/[title_add] Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF6271DC2E2]
+	(No symbol) [0x00007FF6271DE94F]
+	(No symbol) [0x00007FF62726CD20]
+	(No symbol) [0x00007FF62724BBDA]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:37:02] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:37:04] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:37:04] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:37:04] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:37:08] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:41:08] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:41:09] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:41:09] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:41:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:41:13] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627225B8E]
+	(No symbol) [0x00007FF627225E7C]
+	(No symbol) [0x00007FF62726EC27]
+	(No symbol) [0x00007FF62724BC1F]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:41:13] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:44:13] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:44:16] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="新建"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627225B8E]
+	(No symbol) [0x00007FF627225E7C]
+	(No symbol) [0x00007FF62726EC27]
+	(No symbol) [0x00007FF62724BC1F]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:44:16] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:44:19] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="新建"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627225B8E]
+	(No symbol) [0x00007FF627225E7C]
+	(No symbol) [0x00007FF62726EC27]
+	(No symbol) [0x00007FF62724BC1F]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-15 20:46:49] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:46:51] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:46:51] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:48:48] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:48:49] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:48:49] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:49:46] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:49:47] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:49:47] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:53:05] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:53:06] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:53:06] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:54:24] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:54:25] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:54:25] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:55:59] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:56:01] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:56:01] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:57:25] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-15 20:57:27] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-15 20:57:27] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-15 20:57:27] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:57:30] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-15 20:57:31] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF627693875+3004357]
+	(No symbol) [0x00007FF627329940]
+	(No symbol) [0x00007FF6271D582A]
+	(No symbol) [0x00007FF627227374]
+	(No symbol) [0x00007FF62721996E]
+	(No symbol) [0x00007FF62724BBDA]
+	(No symbol) [0x00007FF6272192A6]
+	(No symbol) [0x00007FF62724BDF0]
+	(No symbol) [0x00007FF62726BA4C]
+	(No symbol) [0x00007FF62724B983]
+	(No symbol) [0x00007FF627217628]
+	(No symbol) [0x00007FF627218791]
+	GetHandleVerifier [0x00007FF6276B9FDD+3161901]
+	GetHandleVerifier [0x00007FF62770E030+3506048]
+	GetHandleVerifier [0x00007FF627703FDD+3465005]
+	GetHandleVerifier [0x00007FF627480EBB+830987]
+	(No symbol) [0x00007FF62733464F]
+	(No symbol) [0x00007FF6273309A4]
+	(No symbol) [0x00007FF627330B3D]
+	(No symbol) [0x00007FF627320119]
+	BaseThreadInitThunk [0x00007FFB5F0F259D+29]
+	RtlUserThreadStart [0x00007FFB5FF6AF38+40]
+ 
+[2025-01-17 10:20:46] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 10:20:47] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 10:20:47] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 10:23:02] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 10:23:04] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 10:23:04] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:17:42] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:17:43] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:17:43] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:22:04] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:22:06] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:22:06] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:27:40] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:27:42] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:27:42] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:28:30] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:28:32] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:28:32] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:29:15] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:29:16] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:29:16] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:30:28] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:30:30] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:30:30] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:32:19] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:32:35] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:32:36] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:32:36] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:33:17] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:33:19] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:33:19] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:35:59] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:36:00] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:36:00] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:36:33] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:36:35] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:36:35] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:38:05] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:38:07] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:38:07] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:44:55] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:45:00] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:45:00] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:48:45] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:48:46] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:48:46] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:50:28] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:50:29] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:50:29] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 11:52:40] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 11:52:42] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 11:52:42] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:14:31] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:14:32] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:14:32] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:16:21] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:16:23] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:16:23] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:17:25] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:17:26] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:17:26] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:17:26] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:17:31] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:22:42] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:22:43] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:22:43] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:22:43] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:22:48] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:27:37] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:27:38] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:27:38] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:29:31] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:29:33] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:29:33] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:37:31] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:37:32] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:37:32] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:38:37] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:38:39] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:38:39] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:38:44] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:39:58] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:40:01] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F05659]
+	(No symbol) [0x00007FF779F5702F]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 13:46:19] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:46:20] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:46:20] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:47:06] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:50:30] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:56:10] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:56:12] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-17 13:56:12] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:56:56] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 13:56:58] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 13:56:58] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 13:57:19] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 13:58:30] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:07:31] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:07:33] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:07:33] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:07:33] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:07:37] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:07:38] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 14:10:02] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:10:05] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="新建"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 14:10:05] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:10:08] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="新建"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 14:13:35] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:13:37] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:13:37] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:13:37] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:13:41] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:44:31] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:44:32] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:44:32] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:44:32] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:44:37] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:46:20] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:46:21] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:46:21] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:52:58] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:53:00] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:53:00] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:53:45] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:53:46] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:53:46] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:54:35] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:54:37] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:54:37] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:55:12] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 14:55:14] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 14:55:14] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 14:55:14] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 14:55:18] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:04:08] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:04:09] [INFO] [project_page.py]/[line: 77]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:04:09] [INFO] [project_page.py]/[line: 78]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:04:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:04:13] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:04:13] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 15:07:51] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:07:53] [INFO] [project_page.py]/[line: 77]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-17 15:07:53] [INFO] [project_page.py]/[line: 78]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:07:53] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:08:00] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:10:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:10:39] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:10:39] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:10:39] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:10:44] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:21:56] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:21:57] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:21:57] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:21:57] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:22:02] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:22:47] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:22:48] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:22:48] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:22:55] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:27:12] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:27:14] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:27:14] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:27:53] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:37:15] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:37:57] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F05659]
+	(No symbol) [0x00007FF779F5702F]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 15:41:54] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:41:56] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:41:56] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:44:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:44:39] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:44:39] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:45:03] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:47:25] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:49:23] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:49:24] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:49:24] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:50:39] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:51:38] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:52:19] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:52:20] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:52:20] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:52:20] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:52:25] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:55:41] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:55:42] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:55:42] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:55:42] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:55:46] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:57:46] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:57:48] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:57:48] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 15:57:48] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:57:53] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 15:57:53] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 15:58:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 15:58:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 15:58:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:00:57] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:00:58] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:00:58] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:05:34] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:05:35] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:05:35] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:08:48] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:08:49] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:08:49] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:10:17] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:10:18] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:10:18] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:10:42] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:12:46] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:12:58] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:12:59] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:12:59] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:13:13] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:17:45] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:17:57] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:17:58] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:17:58] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:19:21] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:19:22] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:19:22] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:20:52] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:20:53] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:20:53] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:21:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:23:42] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:23:43] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:23:43] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:25:16] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:25:17] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:25:17] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:32:04] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:32:05] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:32:05] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:32:07] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:32:54] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:33:30] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:33:31] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:33:31] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:33:31] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:33:36] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:33:36] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 16:41:04] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:41:06] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:41:06] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:41:06] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:41:10] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:45:41] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 16:45:43] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 16:45:43] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 16:45:43] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 16:45:47] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 17:00:13] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 17:00:14] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 17:00:14] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 17:00:14] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 17:00:19] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:30:07] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:30:09] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-17 18:30:09] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:30:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:30:17] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:30:17] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 18:32:04] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:32:05] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:32:05] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:32:10] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:33:23] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:38:01] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:38:02] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:38:02] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:38:02] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:38:07] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:39:45] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:39:46] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:39:46] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:39:46] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:39:53] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:41:50] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:41:52] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:41:52] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:42:01] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:44:44] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:44:45] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:44:45] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:47:07] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 18:47:09] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 18:47:09] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 18:47:19] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 18:49:29] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:03:54] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:03:56] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:03:56] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:03:56] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:04:01] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:04:01] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:07:03] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:07:05] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:07:05] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:07:05] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:07:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:07:39] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:07:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:07:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:07:40] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:07:45] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:07:45] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:09:03] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:09:05] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:09:05] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:09:05] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:09:09] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:09:09] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:11:20] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:11:22] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:11:22] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:11:22] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:11:29] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:12:28] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:12:29] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:12:29] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:12:29] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:12:32] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:12:33] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:14:36] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:14:38] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:14:38] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:14:38] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:14:42] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:14:42] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:17:38] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:17:40] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:17:40] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:17:40] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:17:44] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:17:44] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:18:41] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:18:42] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/home 
+[2025-01-17 19:18:42] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:18:42] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:18:46] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:18:46] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:20:52] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:20:54] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:20:54] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:20:54] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:20:58] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:21:15] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:21:16] [INFO] [project_page.py]/[line: 76]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:21:16] [INFO] [project_page.py]/[line: 77]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:21:16] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:21:20] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:21:23] [INFO] [project_page.py]/[line: 36]/[add_item] Message: element not interactable
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F05659]
+	(No symbol) [0x00007FF779F5702F]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:24:18] [INFO] [home_page.py]/[line: 22]/[add_project] 新增项目 
+[2025-01-17 19:24:20] [INFO] [project_page.py]/[line: 75]/[get_project_result] 页面：https://www.peerup.com/dashboard/welcome 
+[2025-01-17 19:24:20] [INFO] [project_page.py]/[line: 76]/[get_project_result] 项目添加的结果：创建成功 
+[2025-01-17 19:24:20] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 
+[2025-01-17 19:24:23] [INFO] [project_page.py]/[line: 36]/[add_item] Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]
+ 
+[2025-01-17 19:24:23] [INFO] [home_page.py]/[line: 40]/[auto2project] 自动跳转到了项目页 

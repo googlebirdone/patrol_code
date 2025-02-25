@@ -1,0 +1,4 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:138 The chromedriver version (130.0.6723.117) detected in PATH at D:\ToolDir\chromedriver-win64\chromedriver.exe might not be compatible with the detected chrome version (131.0.6778.265); currently, chromedriver 131.0.6778.264 is recommended for chrome 131.*, so it is advised to delete the driver in PATH and retry
+INFO     peerup.utils.log_utils:home_page.py:22 新增项目
+INFO     peerup.utils.log_utils:project_page.py:75 页面：https://www.peerup.com/dashboard/welcome
+INFO     peerup.utils.log_utils:project_page.py:76 项目添加的结果：创建成功

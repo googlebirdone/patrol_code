@@ -1,0 +1,26 @@
+[32mINFO    [0m peerup.utils.log_utils:home_page.py:40 自动跳转到了项目页
+[32mINFO    [0m peerup.utils.log_utils:project_page.py:36 Message: element not interactable: element has zero size
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F57374]
+	(No symbol) [0x00007FF779F4996E]
+	(No symbol) [0x00007FF779F7BBDA]
+	(No symbol) [0x00007FF779F492A6]
+	(No symbol) [0x00007FF779F7BDF0]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]

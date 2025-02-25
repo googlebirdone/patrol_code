@@ -1,0 +1,25 @@
+INFO     peerup.utils.log_utils:home_page.py:40 自动跳转到了项目页
+INFO     peerup.utils.log_utils:project_page.py:36 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="笔记"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A3C3875+3004357]
+	(No symbol) [0x00007FF77A059940]
+	(No symbol) [0x00007FF779F0582A]
+	(No symbol) [0x00007FF779F55B8E]
+	(No symbol) [0x00007FF779F55E7C]
+	(No symbol) [0x00007FF779F9EC27]
+	(No symbol) [0x00007FF779F7BC1F]
+	(No symbol) [0x00007FF779F9BA4C]
+	(No symbol) [0x00007FF779F7B983]
+	(No symbol) [0x00007FF779F47628]
+	(No symbol) [0x00007FF779F48791]
+	GetHandleVerifier [0x00007FF77A3E9FDD+3161901]
+	GetHandleVerifier [0x00007FF77A43E030+3506048]
+	GetHandleVerifier [0x00007FF77A433FDD+3465005]
+	GetHandleVerifier [0x00007FF77A1B0EBB+830987]
+	(No symbol) [0x00007FF77A06464F]
+	(No symbol) [0x00007FF77A0609A4]
+	(No symbol) [0x00007FF77A060B3D]
+	(No symbol) [0x00007FF77A050119]
+	BaseThreadInitThunk [0x00007FFB312F259D+29]
+	RtlUserThreadStart [0x00007FFB32D2AF38+40]

@@ -1,0 +1,1 @@
+[32mINFO    [0m peerup.utils.log_utils:home_page.py:40 自动跳转到了项目页
